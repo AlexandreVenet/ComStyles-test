@@ -1,0 +1,30 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="530" height="330" >
+	<!-- inclure ce svg dans une <img> avec comme width css 100%;
+	il devient alors responsive mais les typos sont aussi réduites
+	peu lisible passé une certaine largeur d'écran :/ -->
+
+	<g transform="translate(-10,0)">
+		<rect x="-100" y="-230" width="50" height="200" fill="#F0F0F0" stroke="#F0F0F0" stroke-width="0" ry="25" rx="25" transform="rotate(180)"/>
+		<text x="75" y="265" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;">Action</text>
+		<text x="75" y="300" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;" fill="rgb(180,180,180)">99</text>
+	</g>
+
+	<g transform="translate(130,0)">
+		<rect x="-100" y="-230" width="50" height="200" fill="#F0F0F0" stroke="#F0F0F0" stroke-width="0" ry="25" rx="25" transform="rotate(180)"/>
+		<text x="75" y="265" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;">Méthodes</text>
+		<text x="75" y="300" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;" fill="rgb(180,180,180)">99</text>
+	</g>
+
+	<g transform="translate(260,0)">
+		<rect x="-100" y="-230" width="50" height="200" fill="#F0F0F0" stroke="#F0F0F0" stroke-width="0" ry="25" rx="25" transform="rotate(180)"/>
+		<text x="75" y="265" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;">Hommes</text>
+		<text x="75" y="300" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;" fill="rgb(180,180,180)">99</text>
+	</g>
+
+	<g transform="translate(390,0)">
+		<rect x="-100" y="-230" width="50" height="200" fill="#F0F0F0" stroke="#F0F0F0" stroke-width="0" ry="25" rx="25" transform="rotate(180)"/>
+		<text x="75" y="265" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;">Idées</text>
+		<text x="75" y="300" alignment-baseline="middle"  text-anchor="middle" font-size="1em" style="white-space: pre; font-family: 'Open Sans', sans-serif;" fill="rgb(180,180,180)">99</text>
+	</g>
+
+</svg>
